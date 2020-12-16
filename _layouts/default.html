@@ -8,12 +8,6 @@
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
     <script src="https://code.jquery.com/jquery-1.12.4.min.js" integrity="sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ=" crossorigin="anonymous"></script>
     <script src="{{ '/assets/js/respond.js' | relative_url }}"></script>
-    <!--[if lt IE 9]>
-      <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-    <![endif]-->
-    <!--[if lt IE 8]>
-    <link rel="stylesheet" href="{{ '/assets/css/ie.css' | relative_url }}">
-    <![endif]-->
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
 
   </head>
@@ -21,9 +15,12 @@
       <div id="header">
         <nav>
           <li class="fork"><a href="{{https://ac01010.github.io/BirdSO/about}}">About</a></li>
-          <li class="fork"><a href="{{https://ac01010.github.io/BirdSO/about}}">Team</a></li>
-          <li class="fork"><a href="{{https://ac01010.github.io/BirdSO/about}}">Tournament</a></li>
-          <li class="fork"><a href="{{https://ac01010.github.io/BirdSO/about}}">Contact</a></li>
+          <li></li>
+          <li class="fork"><a href="{{https://ac01010.github.io/BirdSO/team}}">Team</a></li>
+          <li></li>
+          <li class="fork"><a href="{{https://ac01010.github.io/BirdSO/tournament}}">Tournament</a></li>
+          <li></li>
+          <li class="fork"><a href="{{https://ac01010.github.io/BirdSO/contact}}">Contact</a></li>
           {% if site.show_downloads %}
             <li class="downloads"><a href="{{ site.github.zip_url }}">ZIP</a></li>
             <li class="downloads"><a href="{{ site.github.tar_url }}">TAR</a></li>
