@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to BirdSO 2021!
 
 You can use the [editor on GitHub](https://github.com/AC01010/BirdSO/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
