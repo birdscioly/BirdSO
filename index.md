@@ -1,3 +1,8 @@
+---
+title: Introduction
+layout: default
+---
+
 ## Welcome to the first annual BirdSO Science Olympiad Invitational!
 ## March 6th, 2021
 
