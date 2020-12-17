@@ -33,7 +33,7 @@ Hey! I'm Jason Chang, a junior from West Windsor-Plainsboro High School North in
 <img align="left" width="120" height="120" style="margin: 10px 10px 10px 10px" src="https://cdn.discordapp.com/avatars/224017091458629632/a275c0e5713f1938c88144720b110a58.png">
 
 #### Crystal Zhu
-Hey there! I'm Crystal Zhu, a senior at Mission San Jose High School in Fremont, California ('21). I joined Science Olympiad in my junior year. I focus on inquiry events, and my favorite event is Codebusters. In my free time, I enjoy birdwatching and drawing.
+Hey there! I'm Crystal Zhu, a senior at Mission San Jose High School in Fremont, California ('21). I joined Science Olympiad in my junior year. I mainly focus on inquiry events, and my favorite event is Codebusters, but I also enjoy Ornithology, as I am a huge bird nerd. In my free time, I love birdwatching and drawing.
 
 <img align="right" width="120" height="120" style="margin: 10px 10px 10px 10px" src="https://cdn.discordapp.com/avatars/562760141141966879/8b8cfe460cfb4a177c4b5cfe5ed2186f.png">
 
