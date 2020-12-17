@@ -10,6 +10,7 @@ layout: default
 <!--[BirdSO Registration](http://example.com/)-->
 
 <!--Our **Tournament Updates** document may be found [here](https://docs.google.com/document/d/1-Xh9DhxO06UUcMBV3x1cKrkRnLtZBbwXNCIDazhQF_k/edit?usp=sharing).-->
+The BirdSO **Event Slate** (last modified 12/17/20), may be found [here](https://github.com/AC01010/BirdSO/raw/gh-pages/_assets/BirdSO_2021_Event_Slate.pdf).
 
 The BirdSO **Events and Modifications** document may be found [here for B](https://docs.google.com/document/d/1QqWLnMG5WXVB0oxa3tN7P9bjPnjYXhhZ2y7HQzpXgsg/edit
 ) and [here for C](https://docs.google.com/document/d/1Hop9k_SV6-a5Tqf-mxvSxoffQOERmXBgHzofwHkL2Zk/edit?usp=sharing).
