@@ -73,3 +73,5 @@ Hey! I’m Saanvi Molugu, a junior from West Windsor-Plainsboro High School Nort
 <img align="left" width="120" height="120" style="margin: 10px 10px 10px 10px" src="https://cdn.discordapp.com/avatars/441400427137859594/c9f6584ba4031651080b7c8f8384bc5d.png">
 
 #### Ruth Lu
+Hi! I’m Ruth Lu from American High School (‘22) in California. I’ve been in SciOly since middle school; I love Sounds of Music and kind of like Disease Detectives. I draw, birdwatch, watch youtube, browse memes, and code in my free time.
+
