@@ -5,7 +5,7 @@ layout: default
 
 ## About Us
 
-Founded in 2020, BirdSO is a division B and C miniSO Invitational hosted by students from across the country from California and Washington to New Jersey and New York. Our mission is to provide a top-tier competition to those who strive to learn and engage in Science Olympiad.
+Founded in 2020, BirdSO is a Division B and C miniSO Invitational hosted by students from across the country from California and Washington to New Jersey and New York. Our mission is to provide a top-tier competition to those who strive to learn and engage in Science Olympiad.
 
 ### The Team
 The BirdSO Board consists of both alumni and high school students from across the nation - from Cornell University and UCLA to WW-P High School North and Mission San Jose High School.
