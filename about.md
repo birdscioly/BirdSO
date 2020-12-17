@@ -25,7 +25,7 @@ Hello! My name is Vincent Fong. I’m currently a freshman at Cornell University
 #### Allen Chang
 Hi, I'm Allen Chang, a junior from West Windsor-Plainsboro High School North ('22). I mainly participate in build events, but I also enjoy events such as Sounds of Music, Cybersecurity, and my recent addiction, Codebusters. My hobbies include programming and indoor free flight, and my favorite mechanical pencil is the Pentel Orenz Nero.
 
-<img align="right" width="120" height="120" padding=5px src="https://cdn.discordapp.com/attachments/788658199455727648/788963446124445726/ADGmqu8IougL0bHVNTcOtzIuzZVq2Nqs9JXI8UpMpb37GBks500-c-mo.png">
+<img align="right" width="120" height="120" padding=5px src="https://cdn.discordapp.com/avatars/357356251107295233/c4465ad5465b503f00eb7d0c448e58a3.png">
 
 #### Jason Chang
 Hey! I'm Jason Chang, a junior from West Windsor-Plainsboro High School North in Plainsboro, New Jersey ('22). Since 6th grade, I have focused on engineering events such as Gravity Vehicle and Boomilever, but also participate in events such as Write It Do It. I'm a mechanical pencil and 3D printing enthusiast.
@@ -40,7 +40,7 @@ Hey! I'm Jason Chang, a junior from West Windsor-Plainsboro High School North in
 #### Ayushi Kashyap
 Hello! I am Ayushi Kashyap, a sophomore from Mission San Jose High School ('23) in Fremont, California. I have done Science Olympiad since 5th grade and my favorite events include Fossils, Ornithology, and Invasive Species. In my free time, I enjoy collecting expensive stationery and saying "as you should," as I should.
 
-<img align="left" width="120" height="120" padding=5px src="https://cdn.discordapp.com/avatars/332894525389537280/0a1fcb690cb13b032764b30b1a588104.png">
+<img align="left" width="120" height="120" padding=5px src="https://cdn.discordapp.com/attachments/788658199455727648/788967123498041354/125287967_851668988920737_7912900640515972232_n.png">
 
 #### Andrew Zhang
 Hello my name is Andrew Zhang! I'm a senior (c/o 21) and captain of Syosset High School in New York and have competed since 7th grade. My favorites events are Astronomy, Codebusters, and Fermi Questions but I've also enjoyed participating in Fossils, Material Science, and Invasive Species.
@@ -65,7 +65,12 @@ Hello there! I'm Eric Yang, a junior from WW-P North ('22). I have focused on ma
 #### Gwennie Liu
 Heyo! My name is Gwennie Liu and I'm a junior at Torrey Pines High School in San Diego, California, where I am co-president of the Science Olympiad team. This is my seventh year participating in Science Olympiad; my favorite events include Astronomy and Rocks and Minerals. In my free time, I enjoy binging dramas and knitting.
 
-<img align="right" width="120" height="120" padding=5px src="https://cdn.discordapp.com/avatars/441400427137859594/c9f6584ba4031651080b7c8f8384bc5d.png">
+<img align="right" width="120" height="120" padding=5px src="https://cdn.discordapp.com/attachments/788658199455727648/788966452115931156/hummingbird_santa.png">
+
+#### Saanvi Mologu
+Heyo! My name is Gwennie Liu and I'm a junior at Torrey Pines High School in San Diego, California, where I am co-president of the Science Olympiad team. This is my seventh year participating in Science Olympiad; my favorite events include Astronomy and Rocks and Minerals. In my free time, I enjoy binging dramas and knitting.
+
+<img align="left" width="120" height="120" padding=5px src="https://cdn.discordapp.com/avatars/441400427137859594/c9f6584ba4031651080b7c8f8384bc5d.png">
 
 #### Ruth Liu
-(missing)
+Heyo! My name is Gwennie Liu and I'm a junior at Torrey Pines High School in San Diego, California, where I am co-president of the Science Olympiad team. This is my seventh year participating in Science Olympiad; my favorite events include Astronomy and Rocks and Minerals. In my free time, I enjoy binging dramas and knitting.
