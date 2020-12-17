@@ -3,11 +3,11 @@ title: Tournament
 layout: default
 ---
 ## Tournament
-[BirdSO Scilympiad](http://example.com/)
+<!--[BirdSO Scilympiad](http://example.com/)-->
 
-[Attending Teams List](http://example.com/)
+<!--[Attending Teams List](http://example.com/)-->
 
-[BirdSO Registration](http://example.com/)
+<!--[BirdSO Registration](http://example.com/)-->
 
 Our **Tournament Updates** document can be found [here](https://docs.google.com/document/d/1-Xh9DhxO06UUcMBV3x1cKrkRnLtZBbwXNCIDazhQF_k/edit?usp=sharing).
 
@@ -19,7 +19,7 @@ The BirdSO **Tournament Schedule** can be found [here](https://drive.google.com/
 
 
 ### Registration
-Registration will open Monday, December 21st! The tentative cost will be $50/team, and we will host up to 100 teams in both divisions on a first come, first serve basis. To register, head over to [our Scilympiad page](http://example.com/).
+Registration will open Monday, December 21st! The tentative cost will be $50/team, and we will host up to 100 teams in both divisions on a first come, first serve basis. <!--To register, head over to [our Scilympiad page](http://example.com/).-->
 
 ### Events
 
