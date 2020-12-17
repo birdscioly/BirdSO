@@ -9,13 +9,14 @@ layout: default
 
 <!--[BirdSO Registration](http://example.com/)-->
 
-Our **Tournament Updates** document can be found [here](https://docs.google.com/document/d/1-Xh9DhxO06UUcMBV3x1cKrkRnLtZBbwXNCIDazhQF_k/edit?usp=sharing).
+Our **Tournament Updates** document may be found [here](https://docs.google.com/document/d/1-Xh9DhxO06UUcMBV3x1cKrkRnLtZBbwXNCIDazhQF_k/edit?usp=sharing).
 
-The BirdSO **Events and Modifications** document can be found [here](https://docs.google.com/document/d/1Hop9k_SV6-a5Tqf-mxvSxoffQOERmXBgHzofwHkL2Zk/edit?usp=sharing).
+The BirdSO **Events and Modifications** document may be found [here for B](https://docs.google.com/document/d/1QqWLnMG5WXVB0oxa3tN7P9bjPnjYXhhZ2y7HQzpXgsg/edit
+) and [here for C](https://docs.google.com/document/d/1Hop9k_SV6-a5Tqf-mxvSxoffQOERmXBgHzofwHkL2Zk/edit?usp=sharing).
 
-The BirdSO **Tournament Timeline** document can be found [here](https://docs.google.com/document/d/1onAkBQWGjaej_wxyilSeRoMuECtmqr-OU8GOyLFudj8/edit?usp=sharing).
+The BirdSO **Tournament Timeline** document may be found [here](https://docs.google.com/document/d/1onAkBQWGjaej_wxyilSeRoMuECtmqr-OU8GOyLFudj8/edit?usp=sharing).
 
-The BirdSO **Tournament Schedule** can be found [here](https://drive.google.com/file/d/1jqdiYzMPIVWmz3SIwKAIoc0IEBZJI3v9/view?usp=sharing).
+The BirdSO **Tournament Schedule** may be found [here](https://drive.google.com/file/d/1jqdiYzMPIVWmz3SIwKAIoc0IEBZJI3v9/view?usp=sharing).
 
 
 ### Registration
