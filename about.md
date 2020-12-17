@@ -72,5 +72,4 @@ Hey! I’m Saanvi Molugu, a junior from West Windsor-Plainsboro High School Nort
 
 <img align="left" width="120" height="120" style="margin: 10px 10px 10px 10px" src="https://cdn.discordapp.com/avatars/441400427137859594/c9f6584ba4031651080b7c8f8384bc5d.png">
 
-#### Ruth Liu
-Heyo! My name is Gwennie Liu and I'm a junior at Torrey Pines High School in San Diego, California, where I am co-president of the Science Olympiad team. This is my seventh year participating in Science Olympiad; my favorite events include Astronomy and Rocks and Minerals. In my free time, I enjoy binging dramas and knitting.
+#### Ruth Lu
