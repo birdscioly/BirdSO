@@ -19,7 +19,7 @@ The BirdSO **Tournament Schedule** can be found [here](https://drive.google.com/
 
 
 ### Registration
-Registration will open Monday, December 21st! The tentative cost will be $50/team, and we will host up to 100 teams on a first come, first serve basis. To register, head over to [our Scilympiad page](http://example.com/).
+Registration will open Monday, December 21st! The tentative cost will be $50/team, and we will host up to 100 teams in both divisions on a first come, first serve basis. To register, head over to [our Scilympiad page](http://example.com/).
 
 ### Events
 
