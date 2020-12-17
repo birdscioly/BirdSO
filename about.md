@@ -43,7 +43,7 @@ Hello! I am Ayushi Kashyap, a sophomore from Mission San Jose High School ('23) 
 <img align="left" width="120" height="120" style="margin: 10px 10px 10px 10px" src="https://cdn.discordapp.com/attachments/788658199455727648/788967123498041354/125287967_851668988920737_7912900640515972232_n.png">
 
 #### Andrew Zhang
-Hello my name is Andrew Zhang! I'm a senior (c/o 21) and captain of Syosset High School in New York and have competed since 7th grade. My favorites events are Astronomy, Codebusters, and Fermi Questions but I've also enjoyed participating in Fossils, Material Science, and Invasive Species.
+Hello my name is Andrew Zhang! I'm a senior (c/o 21) and captain of Syosset High School in New York and have competed since 7th grade. My favorites events are Astronomy, Codebusters, and Fermi Questions but I've also enjoyed participating in Fossils, Material Science, and Invasive Species. In my free time I spend too long playing cryptograms.
 
 <img align="right" width="120" height="120" style="margin: 10px 10px 10px 10px" src="https://cdn.discordapp.com/avatars/195677759173820416/e2e6d7553836f003cb096d379daf502b.png">
 
