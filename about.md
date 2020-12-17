@@ -68,7 +68,7 @@ Heyo! My name is Gwennie Liu and I'm a junior at Torrey Pines High School in San
 <img align="right" width="120" height="120" style="margin: 10px 10px 10px 10px" src="https://cdn.discordapp.com/attachments/788658199455727648/788966452115931156/hummingbird_santa.png">
 
 #### Saanvi Mologu
-Heyo! My name is Gwennie Liu and I'm a junior at Torrey Pines High School in San Diego, California, where I am co-president of the Science Olympiad team. This is my seventh year participating in Science Olympiad; my favorite events include Astronomy and Rocks and Minerals. In my free time, I enjoy binging dramas and knitting.
+Hey! I’m Saanvi Molugu, a junior from West Windsor-Plainsboro High School North (22’). I joined in my sophomore year and I mainly focus on biology-based events, but one of my favorite events is Protein Modeling. You can find me spending my free time procrastinating on school work, but I also like to draw occasionally.
 
 <img align="left" width="120" height="120" style="margin: 10px 10px 10px 10px" src="https://cdn.discordapp.com/avatars/441400427137859594/c9f6584ba4031651080b7c8f8384bc5d.png">
 
