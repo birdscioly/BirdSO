@@ -4,7 +4,9 @@ layout: default
 ---
 ## Tournament
 [BirdSO Scilympiad](http://example.com/)
+
 [Attending Teams List](http://example.com/)
+
 [BirdSO Registration](http://example.com/)
 
 Our **Tournament Updates** document can be found [here](https://docs.google.com/document/d/1-Xh9DhxO06UUcMBV3x1cKrkRnLtZBbwXNCIDazhQF_k/edit?usp=sharing).
