@@ -17,7 +17,7 @@ The BirdSO **Events and Modifications** document may be found [here for B](https
 The BirdSO **Tournament Timeline** document may be found [here](https://docs.google.com/document/d/1onAkBQWGjaej_wxyilSeRoMuECtmqr-OU8GOyLFudj8/edit?usp=sharing).
 <!--The BirdSO **Tournament Schedule** may be found [here](https://drive.google.com/file/d/1jqdiYzMPIVWmz3SIwKAIoc0IEBZJI3v9/view?usp=sharing).-->
 
-All events will be self-submitted and self-scheduled within the testing window from **Sunday, March 7th (9AM PT) to Saturday, March 13th (9PM PT)**. Teams may choose to take the exam or submit build videos during any 50-minute window within the larger testing window. 
+All events will be self-submitted within the testing window from **Sunday, March 7th (9AM PT) to Saturday, March 13th (9PM PT)**. Teams may choose to take the exam or submit build videos during any 50-minute window within the larger testing window. 
 
 ### Registration
 Registration will open Monday, December 21st! The tentative cost will be $50/team, and we will host up to 100 teams in both divisions on a first come, first serve basis. <!--To register, head over to [our Scilympiad page](http://example.com/).-->
