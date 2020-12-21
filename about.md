@@ -45,7 +45,7 @@ Hello! I am Ayushi Kashyap, a sophomore from Mission San Jose High School ('23) 
 #### Andrew Zhang
 Hello my name is Andrew Zhang! I'm a senior (c/o 21) and captain of Syosset High School in New York and have competed since 7th grade. My favorites events are Astronomy, Codebusters, and Fermi Questions but I've also enjoyed participating in Fossils, Material Science, and Invasive Species. In my free time I spend too long playing cryptograms.
 
-<img align="right" width="120" height="120" style="margin: 10px 10px 10px 10px" src="https://cdn.discordapp.com/avatars/195677759173820416/e2e6d7553836f003cb096d379daf502b.png">
+<img align="right" width="120" height="120" style="margin: 10px 10px 10px 10px" src="https://cdn.discordapp.com/avatars/195677759173820416/b8a8bad295612343a8573a1f2974a86c.png">
 
 #### Jacob Gianan
 Hi, I'm Jacob Gianan, a senior co-captain from Camas High School in Camas, Washington ('21). I have competed in Science Olympiad since 5th grade and my favorite events are Wright Stuff and Helicopters. In my free time I enjoy building 3d printers, indoor free flight, and listening to Blackpink.
