@@ -65,12 +65,7 @@ Hello there! I'm Eric Yang, a junior from WW-P North ('22). I have focused on ma
 #### Gwennie Liu
 Heyo! My name is Gwennie Liu and I'm a junior at Torrey Pines High School in San Diego, California, where I am co-president of the Science Olympiad team. This is my seventh year participating in Science Olympiad; my favorite events include Astronomy and Rocks and Minerals. In my free time, I enjoy binging dramas and knitting.
 
-<img align="right" width="120" height="120" style="margin: 10px 10px 10px 10px" src="https://cdn.discordapp.com/attachments/788658199455727648/788966452115931156/hummingbird_santa.png">
-
-#### Saanvi Mologu
-Hey! I’m Saanvi Molugu, a junior from West Windsor-Plainsboro High School North (22’). I joined in my sophomore year and I mainly focus on biology-based events, but one of my favorite events is Protein Modeling. You can find me spending my free time procrastinating on school work, but I also like to draw occasionally.
-
-<img align="left" width="120" height="120" style="margin: 10px 10px 10px 10px" src="https://cdn.discordapp.com/avatars/441400427137859594/c9f6584ba4031651080b7c8f8384bc5d.png">
+<img align="right" width="120" height="120" style="margin: 10px 10px 10px 10px" src="https://cdn.discordapp.com/avatars/441400427137859594/c9f6584ba4031651080b7c8f8384bc5d.png">
 
 #### Ruth Lu
 Hi! I’m Ruth Lu from American High School (‘22) in California. I’ve been in SciOly since middle school; I love Sounds of Music and kind of like Disease Detectives. I draw, birdwatch, watch youtube, browse memes, and code in my free time.
