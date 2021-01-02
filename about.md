@@ -35,7 +35,7 @@ Hey! I'm Jason Chang, a junior from West Windsor-Plainsboro High School North in
 #### Crystal Zhu
 Hey there! I'm Crystal Zhu, a senior at Mission San Jose High School in Fremont, California ('21). I joined Science Olympiad in my junior year. I mainly focus on inquiry events, and my favorite event is Codebusters, but I also enjoy Ornithology, as I am a huge bird nerd. In my free time, I love birdwatching and drawing.
 
-<img align="right" width="120" height="120" style="margin: 10px 10px 10px 10px" src="/pfps/akashyap/png">
+<img align="right" width="120" height="120" style="margin: 10px 10px 10px 10px" src="/pfps/akashyap.png">
 
 #### Ayushi Kashyap
 Hello! I am Ayushi Kashyap, a sophomore from Mission San Jose High School ('23) in Fremont, California. I have done Science Olympiad since 5th grade and my favorite events include Fossils, Ornithology, and Invasive Species. In my free time, I enjoy collecting expensive stationery and saying "as you should," as I should.
@@ -45,7 +45,7 @@ Hello! I am Ayushi Kashyap, a sophomore from Mission San Jose High School ('23) 
 #### Andrew Zhang
 Hello my name is Andrew Zhang! I'm a senior (c/o 21) and captain of Syosset High School in New York and have competed since 7th grade. My favorites events are Astronomy, Codebusters, and Fermi Questions but I've also enjoyed participating in Fossils, Material Science, and Invasive Species. In my free time I spend too long playing cryptograms.
 
-<img align="right" width="120" height="120" style="margin: 10px 10px 10px 10px" src="/pfps/jgianan.png">
+<img align="right" width="120" height="120" style="margin: 10px 10px 10px 10px" src="/pfps/jgianan.gif">
 
 #### Jacob Gianan
 Hi, I'm Jacob Gianan, a senior co-captain from Camas High School in Camas, Washington ('21). I have competed in Science Olympiad since 5th grade and my favorite events are Wright Stuff and Helicopters. In my free time I enjoy building 3d printers, indoor free flight, and listening to Blackpink.
