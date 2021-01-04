@@ -12,7 +12,7 @@ layout: default
   Registration has begun! Please visit <a href="https://scilympiad.com/birdso">our Scilympiad site</a> to register.
 </p>
 
-###Updates
+<h3>Updates</h3>
 
 <b>December 21st, 2020:</b> Registration starts on December 22nd, 2020!
 
