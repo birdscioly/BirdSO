@@ -10,10 +10,12 @@ Founded in 2020, BirdSO is a Division B and C miniSO Invitational hosted by stud
 ### The Team
 The BirdSO Board consists of both alumni and high school students from across the nation - from Cornell University and UCLA to WW-P High School North and Mission San Jose High School.
 
-<img align="left" width="120" height="120" style="margin: 10px 10px 10px 10px" src="/BirdSO/pfps/ema.png">
+| <img align="left" width="120" height="120" style="margin: 10px 10px 10px 10px" src="/BirdSO/pfps/ema.png">
 
-#### Eric Ma
-My name is Eric Ma, and I am a freshman at UCLA studying...some of the time I guess? I competed in Science Olympiad with Mission San Jose High School for four years in all sorts of events, although my favorites are probably Protein Modeling and Mission Possible. In my free time, you can catch me playing some instrument, taking photos of the sidewalk, and napping to avoid my homework.
+#### Eric Ma 
+My name is Eric Ma, and I am a freshman at UCLA studying...some of the time I guess? I competed in Science Olympiad with Mission San Jose High School for four years in all sorts of events, although my favorites are probably Protein Modeling and Mission Possible. In my free time, you can catch me playing some instrument, taking photos of the sidewalk, and napping to avoid my homework. |
+| --- |
+
   
 <img align="right" width="120" height="120" style="margin: 10px 10px 10px 10px" src="/BirdSO/pfps/vfong.png">
 
